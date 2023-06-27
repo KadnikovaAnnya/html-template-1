@@ -36,4 +36,5 @@
 
 Демонстрация работы мобильного вида на видео 😊
 
-<video src="readme/doc_2023-06-27_22-21-38.mp4" controls title="Title"></video>
+
+https://github.com/hellbruh/html-template-1/assets/97295264/8ee10661-e2d0-4fc7-a5cc-a244416bf6bc
